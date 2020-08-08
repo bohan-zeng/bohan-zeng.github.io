@@ -11,8 +11,6 @@ I think the most important contribution of this paper is it proposed a policy gr
 
 Another crucial contribution is the unified framework to describe most of the policy optimization methods so that they can be just viewed as variants of the TRPO.
 
-This article is to 
-
 Three categories on Reinforcement learning:
 1. Policy Iteration
 2. Policy gradient
