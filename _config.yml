@@ -36,7 +36,8 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nigel Zeng
   #email: # change to your email address
-  #links:
+  links:
+    - https://bohan-zeng.github.io/
   # The first element serves as the copyright owner's link
   # - https://twitter.com/username # change to your Twitter homepage
   # - https://github.com/username # change to your GitHub homepage
